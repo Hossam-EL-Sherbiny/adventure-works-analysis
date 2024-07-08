@@ -12,18 +12,7 @@ By using Microsoft Power BI, you'll be able to create a compelling and interacti
 
 - `AdventureWorks.pbix`: The Power BI file containing the dashboard.
 - `dataset.csv`: The dataset used for the analysis.
-
-## How to Use
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/<username>/<repository>.git
-    ```
-
-2. Open `AdventureWorks.pbix` in Microsoft Power BI Desktop.
-
-3. Explore the interactive dashboard to gain insights into the company's sales performance.
-
+- 
 ## Insights
 
 The dashboard includes the following key insights:
